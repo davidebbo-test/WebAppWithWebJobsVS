@@ -3,6 +3,9 @@
   "WebJobs": [
     {
       "filePath": "../MyTriggeredWebJob/MyTriggeredWebJob.csproj"
+    },
+    {
+      "filePath": "../MyContinuousWebJob/MyContinuousWebJob.csproj"
     }
   ]
 }
