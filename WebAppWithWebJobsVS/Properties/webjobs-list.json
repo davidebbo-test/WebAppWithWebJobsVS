@@ -6,6 +6,9 @@
     },
     {
       "filePath": "../MyContinuousWebJob/MyContinuousWebJob.csproj"
+    },
+    {
+      "filePath": "../MyScheduledWebJob/MyScheduledWebJob.csproj"
     }
   ]
 }
